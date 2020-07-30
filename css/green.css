@@ -1,0 +1,22 @@
+:root{
+    --primary-color: #606B56;
+    --secondary-color: #155a48;
+    --borderColor: #c1c1c1;
+    --text-primary-color: #fff;
+    --text-secondary-color: #fff;
+}
+.showcase-shadow{
+    background:var(--primary-color);
+}
+
+.showcase {
+    background: var(--secondary-color);
+}
+
+.btn-dark {
+    background: var(--secondary-color);
+}
+
+.skill-collection{
+    background: var(--primary-color);
+}
