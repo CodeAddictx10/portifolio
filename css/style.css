@@ -363,6 +363,9 @@ footer{
     "right-side-content"
     ;
   }
+  .showcase{
+      width: 100%;
+  }
   .about-grid-container{
       display: block;
   }
